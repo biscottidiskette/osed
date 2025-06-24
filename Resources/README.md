@@ -31,10 +31,3 @@
 <ul>
     <li><a href="https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN">LiveOverflow – Stack Overflow & Exploitation</a></li>
 </ul>
-
-## GitHub Repos
-<ul>
-    <li><a href="https://github.com/nop-tech/OSED"></a></li>
-    <li><a href="https://github.com/Gabb4r/osed"></a></li>
-    <li><a href="https://github.com/r0r0x-xx/OSED-Pre"></a></li>
-<ul>
