@@ -2,12 +2,12 @@
 
 ## Vanilla Buffer Overflow
 <ul>
-    <li>Use pattern_create + pattern_offset to get EIP control<li>
-    <li>Reproduce Vulnserver TRUN BOF manually<li>
+    <li>Use pattern_create + pattern_offset to get EIP control</li>
+    <li>Reproduce Vulnserver TRUN BOF manually</li>
     <ul>
         <li><a href="https://www.fuzzysecurity.com/tutorials/expDev/1.html">Reference: FuzzySecurity Stack 0x01</a></li>
     </ul>
-    <li>Use WinDbg to verify ESP, EBP, shellcode address<li>
+    <li>Use WinDbg to verify ESP, EBP, shellcode address</li>
 </ul>
 
 ## SEH Overwrite
